@@ -1,0 +1,48 @@
+------------ GameMaker 8.1.91.5913 --------------
+Not running from the ApplicationData directory
+Executable does not exist in ApplicationData C:\Users\Kamurai\AppData\Roaming\GameMaker\GameMaker.exe
+unzipping "C:\Users\Kamurai\AppData\Roaming\GameMaker\UpgradeZip\upgrade.zip" to "C:\Users\Kamurai\AppData\Roaming\GameMaker\Upgrade"
+Deleting the upgrade Zip directory "C:\Users\Kamurai\AppData\Roaming\GameMaker\UpgradeZip"
+Upgrade Directory exists - copying over data
+Starting the Application Data executable "C:\Users\Kamurai\AppData\Roaming\GameMaker\GameMaker.exe" --YYOriginalFilename="C:\House\Programming\GameMaker 8.1\GameMaker.exe" 
+Exiting the original application - "C:\House\Programming\GameMaker 8.1\GameMaker.exe"
+------------ GameMaker 8.1.91.5913 --------------
+Starting the ApplicationData executable
+found --YYOriginalFilename=C:\House\Programming\GameMaker 8.1\GameMaker.exe
+Starting process for C:\Users\Kamurai\AppData\Roaming\GameMaker\Game_Maker.exe
+urlForUpdate = http://store.yoyogames.com/downloads/gm4win/update.rss
+update file downloaded numEntries = 21
+FileEntry = Title=Version 8.1.141, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm4win/release-notes.html#version-8.1.141, PubDate=1/18/2012 11:34:06 AM, EnclosureUri=http://store.yoyogames.com/downloads/gm4win/GameMaker-8.1.141.zip, EnclosureVersion=8.1.141, EnclosureType=application/octet-stream, EnclosureLength=12071515, EnclosureSignature=MCwCFENV+Dg8tM9s/dLmgY/t+NUvL2zvAhRylqrhaviJSYTeLTnJQpX17oV4Cg==, 
+User chose InstallUpdate
+Version is newer, downloading the Enclosure=http://store.yoyogames.com/downloads/gm4win/GameMaker-8.1.141.zip
+Enclosure downloaded
+about to Relaunch
+installing the enclosure
+Relaunching app "C:\House\Programming\GameMaker 8.1\GameMaker.exe "
+------------ GameMaker 8.1.91.5913 --------------
+Not running from the ApplicationData directory
+unzipping "C:\Users\Kamurai\AppData\Roaming\GameMaker\UpgradeZip\upgrade.zip" to "C:\Users\Kamurai\AppData\Roaming\GameMaker\Upgrade"
+Deleting the upgrade Zip directory "C:\Users\Kamurai\AppData\Roaming\GameMaker\UpgradeZip"
+Upgrade Directory exists - copying over data
+Starting the Application Data executable "C:\Users\Kamurai\AppData\Roaming\GameMaker\GameMaker.exe" --YYOriginalFilename="C:\House\Programming\GameMaker 8.1\GameMaker.exe" 
+Exiting the original application - "C:\House\Programming\GameMaker 8.1\GameMaker.exe"
+------------ GameMaker 8.1.141.11549 --------------
+Starting the ApplicationData executable
+found --YYOriginalFilename=C:\House\Programming\GameMaker 8.1\GameMaker.exe
+Starting process for C:\Users\Kamurai\AppData\Roaming\GameMaker\Game_Maker.exe
+urlForUpdate = http://store.yoyogames.com/downloads/gm4win/update-stable.rss
+update file downloaded numEntries = 43
+FileEntry = Title=Version 8.1.141, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm4win/release-notes.html#version-8.1.141, PubDate=1/18/2012 11:34:06 AM, EnclosureUri=http://store.yoyogames.com/downloads/gm4win/GameMaker-8.1.141.zip, EnclosureVersion=8.1.141, EnclosureType=application/octet-stream, EnclosureLength=12071515, EnclosureSignature=MCwCFENV+Dg8tM9s/dLmgY/t+NUvL2zvAhRylqrhaviJSYTeLTnJQpX17oV4Cg==, 
+Not a newer version - ignoring
+------------ GameMaker 8.1.91.5913 --------------
+Not running from the ApplicationData directory
+Starting the Application Data executable "C:\Users\Kamurai\AppData\Roaming\GameMaker\GameMaker.exe" --YYOriginalFilename="C:\House\Programs\GameMaker 8.1\GameMaker.exe" 
+Exiting the original application - "C:\House\Programs\GameMaker 8.1\GameMaker.exe"
+------------ GameMaker 8.1.141.11549 --------------
+Starting the ApplicationData executable
+found --YYOriginalFilename=C:\House\Programs\GameMaker 8.1\GameMaker.exe
+Starting process for C:\Users\Kamurai\AppData\Roaming\GameMaker\Game_Maker.exe
+urlForUpdate = http://store.yoyogames.com/downloads/gm4win/update-stable.rss
+update file downloaded numEntries = 43
+FileEntry = Title=Version 8.1.141, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm4win/release-notes.html#version-8.1.141, PubDate=1/18/2012 11:34:06 AM, EnclosureUri=http://store.yoyogames.com/downloads/gm4win/GameMaker-8.1.141.zip, EnclosureVersion=8.1.141, EnclosureType=application/octet-stream, EnclosureLength=12071515, EnclosureSignature=MCwCFENV+Dg8tM9s/dLmgY/t+NUvL2zvAhRylqrhaviJSYTeLTnJQpX17oV4Cg==, 
+Not a newer version - ignoring

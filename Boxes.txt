@@ -1,0 +1,2 @@
+instance_number(obj_Box)
+obj_Phase.Index
