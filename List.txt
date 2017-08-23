@@ -1,2 +1,0 @@
-ds_list_find_value(obj_Deck.ListIndex,0)
-ds_list_find_value(obj_Deck.ListIndex,1)

@@ -1,4 +1,0 @@
-obj_Game_Button.Index
-obj_Game_Button.image_index
-obj_Phase_Button.Index
-obj_Phase_Button.image_index

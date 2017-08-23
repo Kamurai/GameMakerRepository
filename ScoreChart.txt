@@ -1,8 +1,0 @@
-obj_StandardScoreChart.Score
-obj_StandardScoreChart.x
-obj_StandardScoreChart.y
-mouse_x
-mouse_y
-obj_StandardScoreChart.sprite_width
-obj_StandardScoreChart.sprite_height
-obj_StandardScoreChart.Title_Upper_Bound
