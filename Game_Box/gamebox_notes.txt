@@ -1,0 +1,25 @@
+Aesthetics:	
+	Player cursors
+
+General:
+	Hover information.
+	
+Chess:
+	snap to grid
+	Auto Setup
+	Clear pieces
+	
+Functionality:
+	
+Next:
+	
+Bugs:
+
+Bukkit:
+	This should act as a tray that simply holds the dice.
+	The dice should be able to be utilized as if they were still on the table.
+	The bukkit should be able to roll all the dice that rest on it.
+	The bukkit should be able to organize the dice by faces, then value.
+	
+Catan Score Chart:
+	This should track victory points, gold, and upgrades
